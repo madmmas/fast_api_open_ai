@@ -1,7 +1,7 @@
-# FastApi and OpenAI
+# FastApi and OpenAI with 
 
 ## Install the python dependencies
-`pip install fastapi uvicorn pytest`
+`pip install fastapi uvicorn pytest pre-commit`
 
 ## Creating requirements.txt file for dependencies
 `pip freeze > requirements.txt`
